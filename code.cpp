@@ -7,5 +7,6 @@ public:
         v.push_back(intervals[0]);
         cout<<"Hello World";
     }
+    // code changed
 };
 
